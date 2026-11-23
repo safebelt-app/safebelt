@@ -8,15 +8,11 @@ Paste a strange message, link or email, or drop in a screenshot or QR code, and 
 
 ![SafeBelt's home page](1-my-safety.png)
 
-## Download
+## Get SafeBelt
 
-1. Go to **[Releases](../../releases/latest)** and download `SafeBelt-1.0.0-windows-x64.zip`.
-2. Unzip the whole folder somewhere you keep apps, for example Documents. SafeBelt doesn't run from inside the zip.
-3. Double-click **SafeBelt.exe**.
+SafeBelt is coming soon to the Microsoft Store, for Windows 10 and 11 (64-bit).
 
-Windows may say **"Windows protected your PC"**, because SafeBelt is new and not in the Microsoft Store yet. Click **More info**, check the app name is SafeBelt.exe, then click **Run anyway**.
-
-Works on Windows 10 and 11 (64-bit). A Microsoft Store version is on the way.
+[Get SafeBelt from the Microsoft Store](https://apps.microsoft.com/detail/9PK8KRFGQPND)
 
 ## What it does
 
@@ -35,16 +31,6 @@ Works on Windows 10 and 11 (64-bit). A Microsoft Store version is on the way.
 - Moving your profile to a new PC uses only your own Wi-Fi.
 
 Read the full [privacy policy](PRIVACY.md).
-
-## Check your download
-
-Each release lists a **SHA-256** fingerprint of the zip. In Windows PowerShell, run:
-
-```
-Get-FileHash .\SafeBelt-1.0.0-windows-x64.zip
-```
-
-The result should match the release page exactly. If it doesn't, don't run it.
 
 ## Help
 
